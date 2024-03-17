@@ -19,9 +19,6 @@ const HomePageComponent = () => {
       </div>
       <BigButtonsComponent />
 
-      <div>
-        <iframe />
-      </div>
     </div>
   )
 }
